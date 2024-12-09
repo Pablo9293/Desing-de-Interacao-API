@@ -1,0 +1,46 @@
+/*body {
+    font-family: Arial, sans-serif;
+    background-color: gray;
+  }
+  
+  
+  h1, h2 {
+    color: #380512;
+  }
+  
+  #countryDetails, #apiResult {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid black;
+  }
+  
+  .error-message {
+    color: red;
+  }*/
+
+
+
+
+  body {
+  font-family: Arial, sans-serif;
+  background-color: gray;
+}
+
+h1, h2 {
+  color: #380512;
+}
+
+#countryDetails, #apiResult {
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid black;
+}
+
+.error-message {
+  color: red;
+}
+
+
+  
